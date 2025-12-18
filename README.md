@@ -14,14 +14,17 @@
 ## ШАГ 3. Создание таблицы «ОПИСАНИЕ ОБЪЕКТА»
 
 <img width="540" height="193" alt="Снимок экрана 2025-12-18 в 09 57 12" src="https://github.com/user-attachments/assets/458c937d-e782-4bfe-89ff-9b68d5ed3e30" />
+
 ## ШАГ 4. Заполнение таблицы «Районы»
 
 <img width="401" height="142" alt="Снимок экрана 2025-12-18 в 10 22 07" src="https://github.com/user-attachments/assets/4abdc786-19ca-41a4-863b-1a680ab2e002" />
+
 ## ШАГ 5. Заполнение таблицы «Объект недвижимости»
 
 <img width="2200" height="386" alt="image" src="https://github.com/user-attachments/assets/28b03632-d202-4ef1-8081-2098e059e8f5" />
 
 ## ШАГ 6. Заполнение таблицы «ОПИСАНИЕ ОБЪЕКТА» одной командой INSERT
+
 <img width="700" height="522" alt="Снимок экрана 2025-12-18 в 10 25 00" src="https://github.com/user-attachments/assets/dff9ea4b-6f5f-48c5-8475-022be2fc1054" />
 
 
